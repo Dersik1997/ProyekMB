@@ -16,7 +16,6 @@
 * **Etalase Toko Petani:** Halaman khusus untuk melihat seluruh koleksi produk dari satu petani spesifik (seperti toko pribadi).
 * **Galeri Foto:** Melihat detail produk melalui foto untuk memastikan kualitas barang.
 * **Pemesanan Mudah:** Proses checkout yang sederhana dengan pengisian detail alamat dan jumlah pembelian.
-* **Integrasi WhatsApp:** Komunikasi langsung dengan petani untuk konfirmasi pesanan atau tanya jawab terkait produk.
 
 ## Stack Teknologi
 * **Backend:** PHP Native
