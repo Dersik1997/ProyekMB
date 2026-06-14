@@ -18,7 +18,7 @@
 * **Pemesanan Mudah:** Proses checkout yang sederhana dengan pengisian detail alamat dan jumlah pembelian.
 * **Integrasi WhatsApp:** Komunikasi langsung dengan petani untuk konfirmasi pesanan atau tanya jawab terkait produk.
 
-## 🛠️ Stack Teknologi
+## Stack Teknologi
 * **Backend:** PHP Native
 * **Frontend:** Tailwind CSS (Modern & Responsive)
 * **Database:** MySQL
